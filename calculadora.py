@@ -26,5 +26,5 @@ elif operacao == '*':
 elif operacao == '/':
   resultado = divisao(a // b) 
 else:
-  resultado = potencia(a ** b) 
+  resultado = potencia(a**b) 
 print (resultado)
